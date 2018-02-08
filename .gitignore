@@ -1,0 +1,14 @@
+*.jar
+*.war
+*.ear
+
+*.class
+
+node/
+node_modules/
+bower_components/
+public/
+*.log.*
+
+.idea/
+*.iml
